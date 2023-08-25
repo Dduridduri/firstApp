@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         변경됨
+         변경됨2
         </p>
         <a
           className="App-link"
